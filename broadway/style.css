@@ -18,17 +18,12 @@ body {
   background-image: url("./resources/the-flatiron-building.png");
 }
 
-.process {
+.mainheaders {
   font-size: 32px;
   font-weight: bold;
 }
 
-.identify {
-  font-size: 23px;
-  font-weight: bold;
-}
-
-.three {
+.paragraphs {
   font-size: 14px;
 }
 
