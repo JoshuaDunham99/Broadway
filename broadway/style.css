@@ -22,3 +22,26 @@ body {
   font-size: 32px;
   font-weight: bold;
 }
+
+.identify {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.three {
+  font-size: 14px;
+}
+
+.newyork {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image:url("./resources/the-flatiron-building.png");
+}
+
+.trademark {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
