@@ -5,13 +5,10 @@ body {
 
 .broadwaytitle {
   font-size: 70px;
-  font-weight: bold;
-  color: white;
 }
 
 .mainlinks {
   font-size: 18px;
-  color: white;
 }
 
 .background {
@@ -20,7 +17,6 @@ body {
 
 .mainheaders {
   font-size: 32px;
-  font-weight: bold;
 }
 
 .paragraphs {
@@ -29,14 +25,24 @@ body {
 
 .newyork {
   font-size: 23px;
-  font-weight: bold;
-  color: white;
   background-image:url("./resources/the-flatiron-building.png");
 }
 
 .trademark {
   font-size: 11px;
-  color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.broadywaytitle,
+.mainheaders,
+.newyork {
+  font-weight: bold;
+}
+
+.broadwaytitle,
+.mainlinks,
+.newyork,
+.trademark {
+  color: white;
 }
